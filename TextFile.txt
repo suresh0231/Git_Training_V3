@@ -1,4 +1,8 @@
 This is a text file for sample demo
+<<<<<<< HEAD
 Hi i am a DevOps engineer
 changes for day1
 changes for day3
+=======
+Hi I am DevOps engineer
+>>>>>>> b2ea149522c0fc788621c95f7c978d92abd93255
