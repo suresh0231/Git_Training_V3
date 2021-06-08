@@ -6,3 +6,4 @@ This is a comparision lecture
 commit revert 1
 >>>>>>> main
  This is a stash lecture, change in file 1
+ This is a stash lecture, change for untracked file in file 1
